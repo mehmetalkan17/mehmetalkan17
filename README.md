@@ -260,6 +260,17 @@
 
 <br/>
 
+<!-- FOLLOW BUTTON -->
+<a href="https://github.com/mehmetalkan17">
+  <img src="https://img.shields.io/github/followers/mehmetalkan17?label=Follow&style=social" height="28" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mehmetalkan17?tab=repositories">
+  <img src="https://img.shields.io/github/stars/mehmetalkan17?label=Stars&style=social" height="28" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/mehmetalkan17">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -270,6 +281,10 @@
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/alkan__mete/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mehmetalkanmete@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 
 </div>
