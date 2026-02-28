@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=&fontSize=0" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+%C3%97+Finance+%C3%97+Systems;Building+intelligent+platforms+for+real-world+impact;Trade+%E2%80%A2+Data+%E2%80%A2+Automation+%E2%80%A2+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=AI+%C3%97+Finance+%C3%97+Systems;Intelligent+Platforms+for+Real-World+Impact;Trade+%E2%80%A2+Data+%E2%80%A2+Automation+%E2%80%A2+Intelligence;Building+Systems+That+Think+%26+Scale" alt="Typing SVG" />
 </a>
 
 <br/>
