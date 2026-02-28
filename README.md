@@ -198,12 +198,8 @@
 
 <br/><br/>
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetalkan17/mehmetalkan17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmetalkan17/mehmetalkan17/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/mehmetalkan17/mehmetalkan17/output/github-snake-dark.svg" width="95%" />
-</picture>
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=mehmetalkan17&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
