@@ -198,10 +198,12 @@
 
 <br/><br/>
 
-<!-- TROPHIES -->
-<a href="https://github.com/mehmetalkan17">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetalkan17&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
-</a>
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetalkan17/mehmetalkan17/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmetalkan17/mehmetalkan17/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mehmetalkan17/mehmetalkan17/output/github-snake-dark.svg" width="95%" />
+</picture>
 
 <br/><br/>
 
