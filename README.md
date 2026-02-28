@@ -185,8 +185,12 @@
 <br/><br/>
 
 <a href="https://github.com/mehmetalkan17">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehmetalkan17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=mehmetalkan17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 </a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalkan17&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%" />
 
 </div>
 
