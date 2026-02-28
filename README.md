@@ -284,7 +284,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mehmetalkanmete@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
