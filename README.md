@@ -276,7 +276,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mehmetalkanmete/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NyAySDMuNTNBMS41MyAxLjUzIDAgMCAwIDIgMy41M3YxNi45NEExLjUzIDEuNTMgMCAwIDAgMy41MyAyMmgxNi45NEExLjUzIDEuNTMgMCAwIDAgMjIgMjAuNDdWMy41M0ExLjUzIDEuNTMgMCAwIDAgMjAuNDcgMnpNOC4wOSAxOC43NEg1LjQyVjkuMTNoMi42N3Y5LjYxek02Ljc1IDcuOWExLjU2IDEuNTYgMCAxIDEgMC0zLjEyIDEuNTYgMS41NiAwIDAgMSAwIDMuMTJ6TTE4Ljc0IDE4Ljc0aC0yLjY2di00LjY4YzAtMS4xMi0uMDItMi41NS0xLjU1LTIuNTUtMS41NiAwLTEuNzkgMS4yMS0xLjc5IDIuNDd2NC43NmgtMi42N1Y5LjEzaDIuNTZ2MS4zMWguMDRhMi44IDIuOCAwIDAgMSAyLjUyLTEuMzljMi42OSAwIDMuMTkgMS43NyAzLjE5IDQuMDd2NS42MnoiLz48L3N2Zz4=&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/alkan__mete/">
