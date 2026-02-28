@@ -177,19 +177,42 @@
 
 <br/>
 
+<!-- PROFILE SUMMARY CARDS -->
 <a href="https://github.com/mehmetalkan17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetalkan17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalkan17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetalkan17&theme=github_dark" width="95%" />
 </a>
 
 <br/><br/>
 
+<a href="https://github.com/mehmetalkan17">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetalkan17&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetalkan17&theme=github_dark&utcOffset=3" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mehmetalkan17">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmetalkan17&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehmetalkan17&theme=github_dark" />
+</a>
+
+<br/><br/>
+
+<!-- TROPHIES -->
+<a href="https://github.com/mehmetalkan17">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehmetalkan17&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+</a>
+
+<br/><br/>
+
+<!-- STREAK -->
 <a href="https://github.com/mehmetalkan17">
   <img src="https://streak-stats.demolab.com?user=mehmetalkan17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 </a>
 
 <br/><br/>
 
+<!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetalkan17&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%" />
 
 </div>
