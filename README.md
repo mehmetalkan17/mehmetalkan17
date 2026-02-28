@@ -276,7 +276,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mehmetalkanmete/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/alkan__mete/">
